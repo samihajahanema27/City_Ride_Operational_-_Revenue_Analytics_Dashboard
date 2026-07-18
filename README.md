@@ -21,7 +21,7 @@ Efficient operations play a critical role in the mobility and ride-hailing indus
 ### 🔍 Operational Deep-Dives
 <img src="ImagesOfEachPage/overall_performance.png" alt="Overall Performance" width="700"/>
 <img src="ImagesOfEachPage/vehicle_type.png" alt="Vehicle Type Performance" width="700"/>
-<img src="iImagesOfEachPage/revenue_optimization.png" alt="Revenue Optimization" width="700"/>
+<img src="ImagesOfEachPage/revenue_optimization.png" alt="Revenue Optimization" width="700"/>
 <img src="ImagesOfEachPage/cancellation_diagnostics.png" alt="Cancellation Diagnostics" width="700"/>
 <img src="ImagesOfEachPage/ratings_grid.png" alt="Ratings Grid" width="700"/>
 
